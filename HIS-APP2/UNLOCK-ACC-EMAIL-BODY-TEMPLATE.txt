@@ -1,0 +1,16 @@
+Hi  {FNAME}, {LNAME} :
+<br/>
+
+Welcome to  HIS, Your Account is almost created.Plese use below details to unlock your account.<br/>
+<br/>
+
+Temporary Password : {TEMP-PWD}<br/>
+Your Role : {ROLE}<br>
+<br/>
+
+<a href='http://localhost:8082/lastlogin?email={EMAIL}&OTP={TEMP-PWD}'>
+Click Here To Unlock Your Account</a> <br/>
+<br/>
+
+Thanks<br/>
+HIS Team<br/>
